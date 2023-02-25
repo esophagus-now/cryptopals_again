@@ -1,0 +1,14 @@
+==2648== Memcheck, a memory error detector
+==2648== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==2648== Using Valgrind-3.19.0 and LibVEX; rerun with -h for copyright info
+==2648== Command: lua thing.lua
+==2648== 
+==2648== 
+==2648== HEAP SUMMARY:
+==2648==     in use at exit: 0 bytes in 0 blocks
+==2648==   total heap usage: 168,214 allocs, 168,214 frees, 8,915,958 bytes allocated
+==2648== 
+==2648== All heap blocks were freed -- no leaks are possible
+==2648== 
+==2648== For lists of detected and suppressed errors, rerun with: -s
+==2648== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)

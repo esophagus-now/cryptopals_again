@@ -1,0 +1,6 @@
+.ccls-cache
+mmlib
+*.so
+*.o
+main
+draw.draw
